@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>jingle-bells-2</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="jingle-bells-1"/>
   <readme>
     <ru>7a9a16a3a34c8a95ceca606b41451ab4acc89e4d741da9c8b77e8c8f012278a8</ru>
@@ -31,11 +31,11 @@
     <tonalities>6</tonalities>
     <video name="20-merry-christmas-viral_2.mp4" size="1785242" type="video/mp4" volume="1">1fc8f64ae05c1a8c061b6f033b47f4ee02bc57120438cddb40b44c5de7c02894</video>
     <notes>
-      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="5" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
-      <note number="3" values="1" ticks="170" durationTicks="27" ppq="96" velocity="0.719"/>
-      <note number="4" values="2" ticks="213" durationTicks="35" ppq="96" velocity="0.719"/>
-      <note number="5" values="3" ticks="255" durationTicks="82" ppq="96" velocity="0.719"/>
+      <note number="1" values="3" ticks="21" durationTicks="45" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="69" durationTicks="45" ppq="96" velocity="0.739"/>
+      <note number="3" values="1" ticks="118" durationTicks="67" ppq="96" velocity="0.719"/>
+      <note number="4" values="2" ticks="188" durationTicks="23" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="213" durationTicks="82" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -45,13 +45,13 @@
     <tonalities>6</tonalities>
     <video name="20-merry-christmas-viral_3.mp4" size="1653606" type="video/mp4" volume="1">e9d14f6c5ef3fc5baf153bee5b210b4b7d1b8835b17f9913f6654b7d010ad190</video>
     <notes>
-      <note number="1" values="4" ticks="113" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="4" ticks="161" durationTicks="35" ppq="96" velocity="0.739"/>
-      <note number="3" values="4" ticks="210" durationTicks="36" ppq="96" velocity="0.719"/>
-      <note number="4" values="4" ticks="258" durationTicks="21" ppq="96" velocity="0.719"/>
-      <note number="5" values="4" ticks="289" durationTicks="34" ppq="96" velocity="0.719"/>
-      <note number="6" values="3" ticks="337" durationTicks="34" ppq="96" velocity="0.719"/>
-      <note number="7" values="3" ticks="384" durationTicks="44" ppq="96" velocity="0.719"/>
+      <note number="1" values="4" ticks="49" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="4" ticks="97" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="4" ticks="146" durationTicks="53" ppq="96" velocity="0.719"/>
+      <note number="4" values="4" ticks="217" durationTicks="15" ppq="96" velocity="0.719"/>
+      <note number="5" values="4" ticks="241" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="289" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="7" values="3" ticks="338" durationTicks="44" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -59,14 +59,15 @@
     <bpm>100</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="19-jingle-bells-4.mp4" size="1860826" type="video/mp4" volume="1">558ac6a7681f0ee781891cd743c298798979be47f2ba41464d9a4487c573e01e</video>
+    <video name="20-merry-christmas-viral_4.mp4" size="1845656" type="video/mp4" volume="1">e28c3d771dfc9ff15a36dbdc5db06fcea931c5fc2ae3f433b0fe86df24c08b57</video>
     <notes>
-      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="3" ticks="121" durationTicks="24" ppq="96" velocity="0.739"/>
-      <note number="3" values="2" ticks="148" durationTicks="51" ppq="96" velocity="0.719"/>
-      <note number="4" values="2" ticks="217" durationTicks="27" ppq="96" velocity="0.719"/>
-      <note number="5" values="3" ticks="254" durationTicks="45" ppq="96" velocity="0.719"/>
-      <note number="6" values="2" ticks="302" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="1" values="3" ticks="15" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="63" durationTicks="40" ppq="96" velocity="0.739"/>
+      <note number="3" values="2" ticks="110" durationTicks="36" ppq="96" velocity="0.719"/>
+      <note number="4" values="2" ticks="159" durationTicks="39" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="206" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="6" values="2" ticks="255" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="7" values="5" ticks="350" durationTicks="95" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="5">
