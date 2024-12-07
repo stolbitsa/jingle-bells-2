@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>jingle-bells-2</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="jingle-bells-1"/>
   <readme>
     <ru>7a9a16a3a34c8a95ceca606b41451ab4acc89e4d741da9c8b77e8c8f012278a8</ru>
@@ -16,12 +16,12 @@
     <tonalities>6</tonalities>
     <video name="20-merry-christmas-viral_1.mp4" size="1858812" type="video/mp4" volume="1">ecbcd8ab18a88e0f4533c8537c3e5e49a694c880e426aa722179321ecee9ca80</video>
     <notes>
-      <note number="1" values="3" ticks="31" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="3" ticks="79" durationTicks="35" ppq="96" velocity="0.739"/>
-      <note number="3" values="3" ticks="128" durationTicks="81" ppq="96" velocity="0.719"/>
-      <note number="4" values="3" ticks="222" durationTicks="24" ppq="96" velocity="0.719"/>
-      <note number="5" values="3" ticks="258" durationTicks="29" ppq="96" velocity="0.719"/>
-      <note number="6" values="3" ticks="301" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="1" values="3" ticks="17" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="65" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="114" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="208" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="257" durationTicks="32" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="303" durationTicks="95" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -75,14 +75,14 @@
     <bpm>100</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="20-merry-christmas-viral_4.mp4" size="1845656" type="video/mp4" volume="1">e28c3d771dfc9ff15a36dbdc5db06fcea931c5fc2ae3f433b0fe86df24c08b57</video>
+    <video name="20-merry-christmas-viral_5.mp4" size="1846579" type="video/mp4" volume="1">4edd9fcb1267711933f657c2359aec9a658c4300c36b043f3cca87ac39b779bb</video>
     <notes>
-      <note number="1" values="3" ticks="153" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="3" ticks="201" durationTicks="35" ppq="96" velocity="0.732"/>
-      <note number="3" values="3" ticks="250" durationTicks="81" ppq="96" velocity="0.717"/>
-      <note number="4" values="3" ticks="344" durationTicks="24" ppq="96" velocity="0.717"/>
-      <note number="5" values="3" ticks="380" durationTicks="29" ppq="96" velocity="0.717"/>
-      <note number="6" values="3" ticks="423" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="1" values="3" ticks="41" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="89" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="3" ticks="138" durationTicks="81" ppq="96" velocity="0.717"/>
+      <note number="4" values="3" ticks="232" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="5" values="3" ticks="280" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="6" values="3" ticks="329" durationTicks="95" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -92,11 +92,11 @@
     <tonalities>6</tonalities>
     <video name="20-merry-christmas-viral_6.mp4" size="1828384" type="video/mp4" volume="1">e580c80a2b9f517cdbb6bc9fd819d5bac52718c44946222ea8ee6454a5fa2d02</video>
     <notes>
-      <note number="1" values="3" ticks="57" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="5" ticks="105" durationTicks="35" ppq="96" velocity="0.732"/>
-      <note number="3" values="1" ticks="154" durationTicks="27" ppq="96" velocity="0.717"/>
-      <note number="4" values="2" ticks="197" durationTicks="35" ppq="96" velocity="0.717"/>
-      <note number="5" values="3" ticks="239" durationTicks="82" ppq="96" velocity="0.717"/>
+      <note number="1" values="3" ticks="37" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="85" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="1" ticks="134" durationTicks="67" ppq="96" velocity="0.717"/>
+      <note number="4" values="2" ticks="206" durationTicks="21" ppq="96" velocity="0.717"/>
+      <note number="5" values="3" ticks="228" durationTicks="82" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -106,13 +106,13 @@
     <tonalities>6</tonalities>
     <video name="20-merry-christmas-viral_7.mp4" size="1693617" type="video/mp4" volume="1">4bebc8e8e9c1d95cac1879b322367cbcdbba0ee2b4fd9970c66f915b2a5bee5b</video>
     <notes>
-      <note number="1" values="4" ticks="109" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="4" ticks="157" durationTicks="35" ppq="96" velocity="0.732"/>
-      <note number="3" values="4" ticks="206" durationTicks="36" ppq="96" velocity="0.717"/>
-      <note number="4" values="4" ticks="285" durationTicks="21" ppq="96" velocity="0.717"/>
-      <note number="5" values="4" ticks="311" durationTicks="34" ppq="96" velocity="0.717"/>
-      <note number="6" values="3" ticks="345" durationTicks="27" ppq="96" velocity="0.717"/>
-      <note number="7" values="3" ticks="388" durationTicks="53" ppq="96" velocity="0.717"/>
+      <note number="1" values="4" ticks="35" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="4" ticks="83" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="4" ticks="132" durationTicks="53" ppq="96" velocity="0.717"/>
+      <note number="4" values="4" ticks="203" durationTicks="15" ppq="96" velocity="0.717"/>
+      <note number="5" values="4" ticks="227" durationTicks="34" ppq="96" velocity="0.717"/>
+      <note number="6" values="3" ticks="275" durationTicks="34" ppq="96" velocity="0.717"/>
+      <note number="7" values="3" ticks="324" durationTicks="44" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
   <exercise number="8">
@@ -122,12 +122,12 @@
     <tonalities>6</tonalities>
     <video name="20-merry-christmas-viral_8.mp4" size="1850021" type="video/mp4" volume="1">2ac0d541ed006f7b9bd3b62e50f10cdc6b070833911b9b1bfc0e1b195cd2f336</video>
     <notes>
-      <note number="1" values="4" ticks="89" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="5" ticks="137" durationTicks="24" ppq="96" velocity="0.732"/>
-      <note number="3" values="5" ticks="164" durationTicks="51" ppq="96" velocity="0.717"/>
-      <note number="4" values="4" ticks="225" durationTicks="38" ppq="96" velocity="0.717"/>
-      <note number="5" values="2" ticks="269" durationTicks="36" ppq="96" velocity="0.717"/>
-      <note number="6" values="1" ticks="315" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="1" values="3" ticks="27" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="75" durationTicks="40" ppq="96" velocity="0.732"/>
+      <note number="3" values="5" ticks="122" durationTicks="36" ppq="96" velocity="0.717"/>
+      <note number="4" values="4" ticks="171" durationTicks="39" ppq="96" velocity="0.717"/>
+      <note number="5" values="2" ticks="218" durationTicks="45" ppq="96" velocity="0.717"/>
+      <note number="6" values="1" ticks="267" durationTicks="95" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
 </level>
